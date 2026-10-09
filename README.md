@@ -51,7 +51,7 @@ Proyek ini mengembangkan dan membandingkan **tiga model pembelajaran mesin** unt
 
 ```bash
 # Clone repository
-git clone https://github.com/maybeitsai/leukimia-detection.git
+git clone https://github.com/harrymardika/leukimia-detection.git
 cd leukimia-detection
 
 # Install dependencies
@@ -311,7 +311,7 @@ pip install tensorflow keras numpy pandas matplotlib seaborn scikit-learn opencv
 ### Clone Repository
 
 ```bash
-git clone https://github.com/maybeitsai/leukimia-detection.git
+git clone https://github.com/harrymardika/leukimia-detection.git
 cd leukimia-detection
 ```
 
@@ -662,12 +662,12 @@ Proyek ini dilisensikan under MIT License - lihat file [LICENSE](LICENSE) untuk 
 - **Name**: Harry Mardika
 - **Role**: ML Engineer & AI Researcher
 - **LinkedIn**: [Harry Mardika](https://www.linkedin.com/in/harry-mardika)
-- **GitHub**: [@maybeitsai](https://github.com/maybeitsai)
+- **GitHub**: [@harrymardika](https://github.com/harrymardika)
 
 ### 💬 Get Help
 
-- **🐛 Bug Reports**: [Create Issue](https://github.com/maybeitsai/leukimia-detection/issues)
-- **💡 Feature Requests**: [Discussions](https://github.com/maybeitsai/leukimia-detection/discussions)
+- **🐛 Bug Reports**: [Create Issue](https://github.com/harrymardika/leukimia-detection/issues)
+- **💡 Feature Requests**: [Discussions](https://github.com/harrymardika/leukimia-detection/discussions)
 - **📧 Direct Contact**: Open to collaborations & partnerships
 - **🤝 Clinical Partnerships**: Welcome medical institutions for validation
 
@@ -688,8 +688,8 @@ If this project helps you, please:
 
 **Built with ❤️ for the medical community**
 
-[![GitHub Stars](https://img.shields.io/github/stars/maybeitsai/leukimia-detection?style=social)](https://github.com/maybeitsai/leukimia-detection/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/maybeitsai/leukimia-detection?style=social)](https://github.com/maybeitsai/leukimia-detection/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/harrymardika/leukimia-detection?style=social)](https://github.com/harrymardika/leukimia-detection/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/harrymardika/leukimia-detection?style=social)](https://github.com/harrymardika/leukimia-detection/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
